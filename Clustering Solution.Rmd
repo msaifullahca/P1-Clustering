@@ -1,5 +1,4 @@
 ---
-title: "PROG8430-Assignment 3"
 author: "Mohammed Saifullah"
 date: "`r Sys.Date()`"
 output: pdf_document
